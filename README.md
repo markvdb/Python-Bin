@@ -12,4 +12,8 @@ default - default numeric value </p>
 Modification of range (python) and arange (numpy) functions to ressemble from-to-step commands, as used in basic, once upon the time. Two functions returning float or integer, no matter what input is, created. I'm doing strange calcs, sometimes.</p>
 Refer to file "test.py" for usage hint.</p>
 Feel free to modify as you see fits.</p>
+
+<h6>trigd.py</h6>
+Trigonometric functions in degrees, instead in radians. Time saver, only. </p>
+
 Copyrigt © by D. Djokic, 2012
