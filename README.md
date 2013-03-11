@@ -16,4 +16,7 @@ Feel free to modify as you see fits.</p>
 <h6>trigd.py</h6>
 Trigonometric functions in degrees, instead in radians. Time saver, only. </p>
 
+<h6>applescript.py</h6>
+Shamelessly copied from [here](http://www.leancrew.com/all-this/2013/03/combining-python-and-applescript/#comments).
+
 Copyrigt © by D. Djokic, 2012
