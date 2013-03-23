@@ -17,6 +17,8 @@ Feel free to modify as you see fits.</p>
 Trigonometric functions in degrees, instead in radians. Time saver, only. </p>
 
 <h6>applescript.py</h6>
-Shamelessly copied from [here](http://www.leancrew.com/all-this/2013/03/combining-python-and-applescript/#comments).
+Shamelessly copied from [here](http://www.leancrew.com/all-this/2013/03/combining-python-and-applescript/#comments).</p>
 
-Copyrigt © by D. Djokic, 2012
+<h6>txt2evn.py</h6>
+Send text file to Evernote default notebook. Requires "applescript.py". </p>
+Copyrigt © by D. Djokic, 2012-2013
