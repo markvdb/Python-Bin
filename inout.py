@@ -1,6 +1,6 @@
 def get_integer(message, default):
 #get integer number - error check included
-    try:
+	try:
 		f=input (message)
 		st=type(f)
 		if f==0:
